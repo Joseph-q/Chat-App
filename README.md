@@ -51,3 +51,4 @@ npm run dev
 El backend estará en funcionamiento en [http://localhost:8000/](http://localhost:8000/).
 
 ¡Listo! Ahora deberías tener la aplicación de chat ejecutándose localmente con el frontend en el puerto 3000 y el backend en el puerto 8000. ¡Disfruta chateando!
+Recuerda que esta es una aplicacion basica hecha en una tarde quizas sea muy susceptible a bugs o errores
